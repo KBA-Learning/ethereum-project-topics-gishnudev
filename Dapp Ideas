@@ -1,0 +1,19 @@
+ DECENTRALIZED EXAM SYSTEM
+ 
+Abstract:
+A secure dApp for conducting online exams, where exam questions and student answers are encrypted and stored on the blockchain. This ensures that the exam process is transparent and free from tampering or cheating. Results are automatically calculated and stored immutably.
+
+ SCHOLARSHIP DISTRIBUTION PLATFORM
+
+Abstract:
+This dApp ensures fair and transparent scholarship distribution by automating the process using smart contracts. Students can apply for scholarships, and their eligibility is verified using blockchain-stored academic records. Funds are automatically disbursed to eligible students, ensuring transparency and reducing fraud.
+
+ DECENTRALIZED ATTENDANCE MANAGEMENT SYSTEM
+
+Abstract:
+A blockchain-based attendance tracking system ensures that students' attendance records are tamper-proof and accessible. Teachers mark attendance via a smart contract, and students can view their attendance history in real time. The system provides transparency and reduces manual errors in record-keeping.
+
+ DECENTRALIZED VOTING SYSTEM
+ 
+Abstract:
+A decentralized voting application ensures secure and transparent elections by recording votes on the blockchain. Each voter is assigned a unique identity, and their votes are cryptographically recorded to prevent tampering or duplication. The dApp allows users to view election results in real time, ensuring integrity and trustworthiness in the voting process.
